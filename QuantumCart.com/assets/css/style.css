@@ -1,0 +1,33 @@
+*{
+    scroll-behavior: smooth;
+   }
+
+.sale{
+    background-size:cover;
+    background-repeat: no-repeat;
+    max-height:540px;
+}
+
+.footer_links{
+    color: black;
+}
+
+a {
+    color: #050505;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.foot-panel1{
+    background-color: black;
+    color:white;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:0.85rem;
+}
+.foot-panel1 a{
+    color:white;
+    text-decoration: none;
+}
